@@ -33,6 +33,8 @@
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=plastic&logo=rstudio&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=plastic&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-FFD500?style=plastic&logo=shell&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=plastic&logo=tmux&logoColor=white)
