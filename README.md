@@ -8,7 +8,7 @@
 
 ![ppdouble's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ppdouble&custom_title=ppdouble's%20weekly%20status)
 
-## 📫social
+## 📫 Social
 <p>
 
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/1433066?label=stackoverflow%20reputation&logo=stackoverflow&style=plastic)](https://stackoverflow.com/users/1433066/nick-dong)
@@ -18,7 +18,7 @@
 [![CSDN](https://img.shields.io/badge/csdn-%20-gray)](https://blog.csdn.net/ppdouble)
 </p>
 
-## Skills
+## 📙 Skills
 
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=plastic&logo=fedora&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=white)
