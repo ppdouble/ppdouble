@@ -17,3 +17,18 @@
 
 [![CSDN](https://img.shields.io/badge/csdn-%20-gray)](https://blog.csdn.net/ppdouble)
 </p>
+
+## Skills
+
+
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=plastic&logo=eclipse&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Pycharm](https://img.shields.io/badge/Pycharm-000000?style=plastic&logo=pycharm&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=plastic&logo=clion&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=plastic&logo=rstudio&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=plastic&logo=vim&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=plastic&logo=tmux&logoColor=white)
+![Github](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)
