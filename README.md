@@ -27,6 +27,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)
+![Latex](https://img.shields.io/badge/LaTex-008080?style=plastic&logo=latex&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/Pycharm-000000?style=plastic&logo=pycharm&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=plastic&logo=clion&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=plastic&logo=eclipse&logoColor=white)
