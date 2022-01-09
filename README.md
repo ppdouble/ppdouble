@@ -15,7 +15,9 @@
 
 [![Stack Exchange questions](https://img.shields.io/stackexchange/stackoverflow/t/badges?label=stackoverflow%20badges&logo=stackoverflow&style=plastic)](https://stackoverflow.com/users/1433066/nick-dong?tab=badges) 
 
+<!--
 [![CSDN](https://img.shields.io/badge/csdn-%20-gray)](https://blog.csdn.net/ppdouble)
+-->
 </p>
 
 ## 📙 Skills
